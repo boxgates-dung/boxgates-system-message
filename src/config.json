@@ -1,0 +1,23 @@
+{
+    "PORT": " 4432",
+    "auth": {
+        "user": "admin",
+        "password": "213asda12"
+    },
+    "slack": {
+        "apiTokenBotSlack": {
+            "bot-boxgates": "xoxb-3605196415411-3608399595013-gkERN8Mw1undtJNI5aI5nGyg"
+        },
+        "channelIdSlack": {
+            "general": "C03HVJ0T15J"
+        }
+    },
+    "telegram": {
+        "apiTokenBotTelegram": {
+            "bot-boxgates": "5429103197:AAEE7OXm1GE-ABDcmL8CPMEvvFi2p-cS4Rg"
+        },
+        "channelTelegram": {
+            "general": "-742203205"
+        }
+    }
+}
